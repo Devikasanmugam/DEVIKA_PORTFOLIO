@@ -1,0 +1,100 @@
+body{
+    font-family: "monospace";
+}
+section>h2{
+    color:red
+}
+h1{
+    color:#d6d7da;
+}
+#para_1{
+display:flex;
+justify-content: space-evenly;
+color:red;
+padding:70px;
+}
+#para_2{
+   color: white;
+}
+button{
+    background-color: rgb(255, 74, 87);
+    color: white;
+}
+.header{
+    display: flex;
+    justify-content: end;
+}
+.navi{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.navi a{
+    color: white;
+    text-decoration: none;
+}
+#ms{
+   text-align: center;
+}
+.ser{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 36px;
+}
+.box{
+    border: 2px solid rgb(67, 70, 85);
+    text-align: center;
+    margin: 10px;
+    padding: 10px 30px 10px 30px;
+    color: white;
+}
+.box{
+    text-align: center;
+
+}
+#mp{
+    text-align: center;
+}
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom:  20px;
+}
+.btn>button{
+    width: 200px;
+}
+.images{
+    display:flex;
+    justify-content: space-evenly;
+}
+.img1{
+    width: 200px;
+    height: 200px;
+}
+#para_5{
+  color: white;
+  text-align: center;
+}
+ul{
+    list-style-type: none;
+    border: solid 5px white;
+    width: 300px;
+    text-align: center;
+}
+li{
+    padding: 10px;
+    margin-top:10px;
+    box-sizing: border-box;
+}
+.son{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
