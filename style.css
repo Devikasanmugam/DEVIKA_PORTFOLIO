@@ -11,7 +11,7 @@ h1{
 display:flex;
 justify-content: space-evenly;
 color:red;
-padding:80px;
+padding:70px;
 }
 #para_2{
    color: white;
@@ -26,7 +26,7 @@ button{
 }
 .navi{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     gap: 20px;
 }
 .navi a{
