@@ -1,5 +1,5 @@
 body{
-    font-family: "monospace";
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 section>h2{
     color:red
@@ -26,12 +26,15 @@ button{
 }
 .navi{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     gap: 20px;
 }
 .navi a{
     color: white;
     text-decoration: none;
+}
+.navi a:hover{
+    color: aqua;
 }
 #ms{
    text-align: center;
@@ -50,6 +53,7 @@ button{
 }
 .box{
     text-align: center;
+    height:100%;
 
 }
 #mp{
@@ -75,22 +79,48 @@ button{
   color: white;
   text-align: center;
 }
-ul{
-    list-style-type: none;
-    border: solid 5px white;
-    width: 300px;
+.son{
     text-align: center;
 }
-li{
-    padding: 10px;
-    margin-top:10px;
-    box-sizing: border-box;
-}
-.son{
+.AM{
     display: flex;
-    justify-content: center;
-
+    justify-content: space-evenly;
 }
+.am_one>img{
+   width: 300px;
+   height: 420px;
+}
+.am_two{
+    text-align: start;
+}
+form input{
+    text-align: center;
+    background-color: #1f2235;
+}
+.name{
+    margin-top: 20px;
+    width: 60%;
+    color:#d6d7da;
+}
+.name2{
+    margin-top: 20px;
+    width:30%;
+    color:#d6d7da;
+}
+.name3{
+    margin-top: 20px;
+    padding-bottom:50px;
+    padding-right: 550px;
+    color:#d6d7da;
+}
+button{
+    padding:10px;
+    margin:20px;
+    width:100px;
+}
+
+
+
 
 
 
