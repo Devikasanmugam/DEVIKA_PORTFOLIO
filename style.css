@@ -29,7 +29,7 @@ button{
     justify-content: space-between;
     gap: 20px;
 }
-.navi a{
+.navi a, a{
     color: white;
     text-decoration: none;
 }
@@ -54,7 +54,9 @@ button{
 .box{
     text-align: center;
     height:100%;
-
+}
+.box:hover{
+    box-shadow: whitesmoke 2px 2px 10px;
 }
 #mp{
     text-align: center;
@@ -117,6 +119,11 @@ button{
     padding:10px;
     margin:20px;
     width:100px;
+}
+.pic{
+    box-shadow: whitesmoke 2px 2px 10px;
+    border: whitesmoke;
+    background-color:white;
 }
 
 
