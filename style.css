@@ -9,7 +9,7 @@ html{
 }
 
 section>h2{
-    color:red
+    color:red;
 }
 h1{
     color:#d6d7da;
@@ -20,6 +20,7 @@ display:flex;
 justify-content: space-evenly;
 color:red;
 padding:70px;
+
 }
 #para_2{
    color: white;
