@@ -80,6 +80,9 @@ button{
 #mp{
     text-align: center;
 }
+.name{
+    padding-top : 10rem;
+}
 .btn{
     display: flex;
     justify-content: space-evenly;
@@ -124,7 +127,6 @@ form input{
     text-align: center;
     background-color: #1f2235;
 }
-
 .name{
     margin-top: 20px;
     width: 60%;
@@ -165,10 +167,6 @@ button:hover{
 .name2:hover{
     box-shadow: whitesmoke 2px 2px 10px;
 }
-.name:hover{
-    box-shadow: whitesmoke 2px 2px 10px;
-}
-
 
 
 
