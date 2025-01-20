@@ -94,7 +94,7 @@ button{
 .images{
     display:flex;
     justify-content: space-evenly;
-    margin-bottom: 90px;
+     margin-bottom: 90px;
 }
 .img1{
     width: 200px;
