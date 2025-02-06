@@ -156,7 +156,7 @@ input[type="text"], select {
     border: 1px solid #ccc;
     border-radius: 1rem;
     box-sizing: border-box;
-    color: white;
+    /* color: white; */
     background-color: white;
   }
   
@@ -177,7 +177,7 @@ input[type="text"], select {
 .name2{
     margin-top: 20px;
     width:30%;
-    color:#d6d7da;
+    color:black;
 }
 .name3{
     margin-top: 20px;
